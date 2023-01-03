@@ -1,14 +1,36 @@
+body{
+  background: #F5F5DC;
+  margin: 0px;
+  margin-top: 0px;
+}
+.title{
+  background-color: #ECE8DD;
+  height: 100px;
+  position: inherit;
+  bottom: 22px;
+}
+.box {
+  background: #E1D7C6;
+  font-size: 20px;
+  height: 300px;
+}
+.text-input{
+  height: 100px;
+  width: 500px;
+}
+.text-input-salida{
+  height: 100px;
+  width: 500px;
+}
+.alura{
+  position: absolute;
+  top: 5px;
+}
 .btn{
-  height: 19px;
-width: 280px;
-left: 24px;
-top: 24px;
-border-radius: nullpx;
-font-family: Inter;
-font-size: 16px;
-font-weight: 400;
-line-height: 19px;
-letter-spacing: 0em;
-text-align: center;
-
+  background: #579BB1;
+  position: relative;
+  top: 50px;
+}
+hr{
+  margin: dotted;
 }
